@@ -1,7 +1,7 @@
 {
-  "name": "yare-typescript-template",
+  "name": "sware",
   "version": "0.1.0",
-  "description": "A yare template for typescript/javascript",
+  "description": "My latest yare bot",
   "main": "dist/bundle.js",
   "scripts": {
     "preinstall": "git submodule update --recursive --remote --init",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swz-gh/yare-typescript-template.git"
+    "url": "git+https://github.com/swz-gh/sware.git"
   },
   "keywords": [
     "yare",
@@ -18,15 +18,14 @@
     "typescript",
     "ts",
     "javascript",
-    "js",
-    "template"
+    "js"
   ],
   "author": "swz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swz-gh/yare-typescript-template/issues"
+    "url": "https://github.com/swz-gh/sware/issues"
   },
-  "homepage": "https://github.com/swz-gh/yare-typescript-template#readme",
+  "homepage": "https://github.com/swz-gh/sware#readme",
   "devDependencies": {
     "colors": "^1.4.0",
     "esbuild": "^0.12.15",
